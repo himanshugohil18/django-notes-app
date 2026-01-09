@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.*
+
+# Database / volumes (THIS FIXES YOUR ERROR)
+data/
+mysql/
+db/
+
+# Node (if any)
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
